@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url('images/fundo-body.jpg');
+    background-size: cover;
+    background-position: top;
+}
+
+.secao-logo {
+    border-radius: 15px;
+    box-shadow: 6px 6px 25px rgb(22, 21, 21);
+    padding: 30px 20px;
+    width: 850px;
+    margin: 5px auto;
+    /* border: 1px solid red; */
+    background-color: #ffffff;
+}
+
+.secao-principal {
+    border-radius: 15px;
+    box-shadow: 6px 6px 25px rgb(22, 21, 21);
+    padding: 50px 20px;
+    margin: 5px auto;
+    width: 850px;
+    background-image: url('images/capa.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.secao-principal div{
+    width: 850px;
+    text-align: right;
+    margin: 0 auto;
+    padding: 30px 0px;
+    font-size: 23px;
+}
+
+.secao-texto {
+    border-radius: 15px;
+    box-shadow: 6px 6px 25px rgb(22, 21, 21);
+    background-color: #ffffff;
+    width: 850px;
+    margin: 5px auto;
+    padding: 50px 20px;
+}
+
+.imagens-sobre {
+    height: 220px;
+    width: 270px;
+}
+
+.secao-imagem {
+    border-radius: 15px;
+    box-shadow: 6px 6px 25px rgb(22, 21, 21);
+    width: 850px;
+    background-image: url('images/fundo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 5px auto;
+    text-align: center;
+    padding: 70px 20px;
+}
+
+.secao-imagem a {
+    border-radius: 15px;
+    padding: 15px;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
