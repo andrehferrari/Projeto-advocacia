@@ -14,7 +14,7 @@
 
 ## Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+[Git](https://git-scm.com), algum editor de texto.
 
 
 ### Rodando o projeto
@@ -26,11 +26,7 @@ $ git clone <https://github.com/andrehferrari/Projeto-advocacia.git>
 # Acesse a pasta do repositório no terminal/cmd
 $ cd Projeto-advocacia
 
-# Instale as dependências
-$ npm i -y
-
-# Execute a aplicação em mode de desenvolvimento
-$ npm start
+# Após isso, abra o arquivo index.html
 ```
 
 Made with love by André Ferrari
